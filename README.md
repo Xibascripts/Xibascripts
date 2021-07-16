@@ -4,7 +4,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xibascripts&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xibascripts&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xibascripts" />
 
 <hr>
 
