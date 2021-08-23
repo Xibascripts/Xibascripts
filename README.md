@@ -3,7 +3,7 @@
 ### Hello, I'm ao! <a href="https://discord.gg/9zErjgUnDn"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ao-0&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xibascripts&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao-0&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
 
 <hr>
 
