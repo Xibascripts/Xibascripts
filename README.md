@@ -1,3 +1,4 @@
+I no longer script, some stuff may have been continued by someone else.
 <div align="center">
 
 ### Hello, I'm ao! <a href="https://discord.gg/9zErjgUnDn"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
