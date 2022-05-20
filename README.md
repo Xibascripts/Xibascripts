@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/852350438094143508)](https://discord.com/users/741137353988636722)
+[![Discord Presence](https://lanyard.cnrad.dev/api/741137353988636722)](https://discord.com/users/741137353988636722)
 
 ### Hello, I'm ao! <a href="https://discord.gg/9zErjgUnDn"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
 
