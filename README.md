@@ -4,7 +4,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ao-0&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao-0&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
-### **Languages and Tools**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/attachments/865425432894636063/865439840074334208/c-logo-icon-28389.png"></code>
