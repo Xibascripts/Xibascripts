@@ -1,9 +1,12 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/741137353988636722)](https://discord.com/users/741137353988636722)
+# xiba
 
-### Hello, I'm ao!
+otherwise known as vendae
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ao-0&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao-0&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB"/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
+professional full-stack lua developer
+
+
+xiba#8492
+
+![xibas's github stats](https://github-readme-stats.vercel.app/api?username=ao-0&theme=dracula&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ao-0&theme=dracula&margin-w=15&margin-h=15&column=7)]()
